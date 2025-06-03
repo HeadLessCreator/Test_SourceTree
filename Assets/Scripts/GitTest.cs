@@ -4,6 +4,6 @@ public class GitTest : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log("Start from main");
+        Debug.Log("Start from **feature branch**");
     }
 }
